@@ -32,18 +32,25 @@
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "path": "Download/more-tools-add-on-v14-beh.mcpack",
+      "image": "https://fmcpe.com/uploads/posts/2020-08/1596978355_sword-addon-2.jpg",
+      "title": "Download New Swords and Tools 1.20.15",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
-    
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "url": "https://files.catbox.moe/nb6imh.mcpack",
+      "path": "Download/more-tools-beh.mcpack",
+      "image": "https://fmcpe.com/uploads/posts/2021-02/1612811240_elingo-swords-2.jpg",
+      "title": "Download New Swords and Tools BP 1.18.2",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/nb6imh.mcpack",
+      "path": "Download/elemental-sword.mcpack",
+      "image": "https://fmcpe.com/uploads/posts/2022-11/elemental-sword.jpg",
+      "title": "Download Elemental Sword",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
