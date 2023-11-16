@@ -31,19 +31,27 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "url": "https://files.catbox.moe/2w58ek.mcaddon",
+      "path": "Download/Radiums-Armament-RP-v1.5.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2023-08/radium.jpg",
+      "title": "Radium's Armament addon",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
     
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "url": "https://files.catbox.moe/y807km.mcpack",
+      "path": "Download/ActualGunsR.mcpack",
+      "image": "https://fmcpe.com/uploads/posts/2020-05/1590321806_allguns.jpg",
+      "title": "Actual Guns addon",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1ggte7.mcaddon",
+      "path": "Download/MSWP.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-07/war-pack-1.jpg",
+      "title": "Morningstar War addon",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
