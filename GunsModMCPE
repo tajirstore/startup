@@ -7,8 +7,8 @@
       "interstitial": "709ad6cb10242f12"
     },
     "admob": {
-      "mrec": "\tca-app-pub-3940256099942544/6300978111",
-      "active": true,
+      "mrec": "ca-app-pub-3940256099942544/6300978111",
+      "active": false,
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "interstitial": "ca-app-pub-3940256099942544/1033173712"
@@ -30,25 +30,21 @@
   },
   "mods": [
     {
-      "id": "370731277",
-      "app": "roblox",
-      "image": "https://tr.rbxcdn.com/cf062dd0ba7c8ecdd28711b0ad7c983b/768/432/Image/Png",
-      "title": "Meep City",
-      "description": "First make sure you've installed Roblox!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game!"
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/FoodPlus.mcaddon",
+      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
+      "title": "Food's Plus 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
+    
     {
-      "id": "370731277",
-      "app": "roblox",
-      "image": "https://tr.rbxcdn.com/cf062dd0ba7c8ecdd28711b0ad7c983b/768/432/Image/Png",
-      "title": "Meep City",
-      "description": "First make sure you've installed Roblox!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game!"
-    },
-    {
-      "id": "370731277",
-      "app": "roblox",
-      "image": "https://tr.rbxcdn.com/cf062dd0ba7c8ecdd28711b0ad7c983b/768/432/Image/Png",
-      "title": "Meep City",
-      "description": "First make sure you've installed Roblox!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game!"
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/FoodPlus.mcaddon",
+      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
+      "title": "Food's Plus 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
   "settings": {
@@ -57,6 +53,6 @@
       "body": "1. Click on start button\n2. Choose a mod to download\n3. Click install Button and enjoy your game!",
       "title": "HOW TO"
     },
-    "onesignal_app_id": "5998ab7c-b739-459b-aaa7-948f6b8a974e"
+    "onesignal_app_id": ""
   }
 }
